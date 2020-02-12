@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/apk/res-auto">
+
+    <com.example.administrator.shiyuji.ui.widget.AsToolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/actionBarSize"
+        android:background="@drawable/top_menu_background"
+        android:titleTextAppearance="@style/tablayouTextAppearance"
+        android:titleTextColor="@color/black26"
+        tools:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        tools:theme="@style/ThemeOverlay.AppCompat.Light" />
+
+    <com.example.administrator.shiyuji.ui.widget.AsToolbar
+        android:id="@+id/blackToolbar"
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:layout_height="@dimen/actionBarSize"
+        android:background="@drawable/top_menu_background"
+        android:titleTextColor="@color/black26"
+        android:titleTextAppearance="@style/tablayouTextAppearance"
+        tools:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        tools:theme="@style/ThemeOverlay.AppCompat.Dark" />
+
+</LinearLayout>

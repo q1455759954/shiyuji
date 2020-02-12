@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    tools:context=".ui.activity.login.LoginActivity">
+
+    <Button
+        android:layout_margin="5sp"
+        android:layout_gravity="center"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:onClick="buttonLogin"
+        android:text=" Q Q 登 录"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/tv_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
+
+
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+    <!--xmlns:tools="http://schemas.android.com/tools"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:background="@drawable/login_bg"-->
+    <!--android:orientation="vertical"-->
+    <!--tools:context=".LoginActivity">-->
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginTop="35dp">-->
+
+        <!--<ImageView android:id="@+id/symbol"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content" />-->
+
+        <!--<TextView-->
+            <!--android:layout_marginLeft="20dp"-->
+            <!--android:id="@+id/qq"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_marginTop="35dp"-->
+            <!--android:text="仿微博"-->
+            <!--android:textStyle="bold"-->
+            <!--android:textSize="30sp"-->
+            <!--android:layout_height="wrap_content" />-->
+
+    <!--</LinearLayout>-->
+    <!--&lt;!&ndash;输入框&ndash;&gt;-->
+    <!--<EditText-->
+        <!--android:id="@+id/et_user_name"-->
+        <!--android:layout_width="320dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:layout_marginTop="75dp"-->
+        <!--android:hint="账号"-->
+        <!--android:textSize="25sp" />-->
+    <!--&lt;!&ndash;输入框&ndash;&gt;-->
+    <!--<EditText-->
+        <!--android:id="@+id/et_psw"-->
+        <!--android:layout_width="320dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:hint="密码"-->
+        <!--android:textSize="25sp"-->
+        <!--android:inputType="textPassword"/>-->
+    <!--&lt;!&ndash;按钮&ndash;&gt;-->
+    <!--<Button android:id="@+id/btn_login"-->
+        <!--android:text="登录"-->
+        <!--android:background="#1E90FF"-->
+        <!--android:textSize="25sp"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:layout_marginTop="20dp"-->
+        <!--android:layout_width="320dp"-->
+        <!--android:layout_height="wrap_content"/>-->
+
+    <!--<RelativeLayout-->
+        <!--android:layout_marginTop="15dp"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content">-->
+
+        <!--<TextView android:id="@+id/tv_register"-->
+            <!--android:layout_alignParentRight="true"-->
+            <!--android:layout_marginRight="20dp"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="新用户注册"-->
+            <!--android:textStyle="bold"-->
+            <!--android:textSize="20sp"/>-->
+
+        <!--&lt;!&ndash;layout_weight="1" layout_width="0dp"实现均分效果&ndash;&gt;-->
+        <!--<TextView-->
+            <!--android:id="@+id/tv_find_psw"-->
+            <!--android:layout_alignParentLeft="true"-->
+            <!--android:layout_marginLeft="20dp"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textSize="20sp"-->
+            <!--android:textStyle="bold"-->
+            <!--android:text="忘记密码？" />-->
+
+    <!--</RelativeLayout>-->
+
+    <!--<LinearLayout-->
+        <!--android:orientation="vertical"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content">-->
+
+        <!--<RelativeLayout-->
+            <!--android:layout_gravity="center"-->
+            <!--android:layout_marginBottom="30dp"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content">-->
+
+            <!--<TextView-->
+                <!--android:layout_alignParentBottom="true"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="登录即代表阅读并同意服务条款"-->
+                <!--android:textSize="20sp"/>-->
+
+        <!--</RelativeLayout>-->
+    <!--</LinearLayout>-->
+
+
+<!--</LinearLayout>-->

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+                android:background="#FFFFFFFF" android:orientation="vertical"
+                android:paddingBottom="8dip" android:paddingLeft="16dip"
+                android:paddingTop="8dip">
+
+    <com.example.administrator.shiyuji.ui.widget.CircleImageView
+        android:id="@+id/imgPhoto"
+        android:layout_width="40dip" android:layout_height="40dip"
+        android:layout_marginRight="16dip"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:id="@+id/txtName" style="@style/CommentsName"
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/imgPhoto"
+        android:ellipsize="end" android:singleLine="true"
+        android:text="名字" />
+
+    <com.example.administrator.shiyuji.ui.widget.MyTextView
+        android:id="@+id/txtContent" style="@style/CommentsBody"
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_below="@id/txtName" android:layout_marginBottom="5dip"
+        android:layout_marginTop="3dip" android:layout_toRightOf="@id/imgPhoto"
+        android:gravity="center_vertical"
+         android:minHeight="26dip"
+        android:paddingRight="16dip"
+        android:maxLines="3"
+        android:ellipsize="end"
+        android:text="我是评论正文"/>
+
+    <com.example.administrator.shiyuji.ui.widget.CommentPictureView
+        android:id="@+id/pic" android:layout_width="75dip" android:layout_height="75dip"
+        android:layout_below="@id/txtContent"
+        android:layout_marginBottom="8dip" android:layout_toRightOf="@id/imgPhoto"
+        android:scaleType="centerCrop"
+        android:visibility="gone"/>
+
+    <RelativeLayout
+        android:id="@+id/layRe"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:orientation="vertical" android:paddingRight="16dip"
+        android:paddingTop="8dp"
+        android:background="#F5F5F5"
+        android:layout_marginRight="10dp"
+        android:paddingBottom="7dp"
+        android:paddingLeft="8dp"
+        android:layout_below="@+id/txtContent"
+        android:layout_alignStart="@+id/relativeLayout">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/response">
+
+            <TextView
+                android:id="@+id/responseName" style="@style/CommentsName"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:ellipsize="end" android:singleLine="true"
+                android:textColor="#0066cc"
+                android:text="名字" />
+
+            <!--android:layout_gravity="center_vertical"-->
+            <!--android:gravity="center_vertical"-->
+            <com.example.administrator.shiyuji.ui.widget.MyTextView
+                android:id="@+id/txtReContent" style="@style/TextSubhead"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:paddingLeft="5dp"
+                android:layout_toRightOf="@id/responseName"
+                android:text="回复内容"
+                android:ellipsize="end"
+                android:maxLines="2"
+                android:maxHeight="60dip" android:textSize="14sp"/>
+
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/responseNum"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:layout_below="@id/response"
+            android:text="共10条回复  ＞"
+            android:paddingTop="8dp"
+            style="@style/CommentsBody"
+            android:textColor="#0066cc"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="56dp"
+        android:id="@+id/relativeLayout"
+        android:layout_below="@+id/layRe"
+        android:layout_alignParentEnd="true">
+
+        <TextView
+            android:id="@+id/txtDesc"
+            style="@style/CommentsBody"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:ellipsize="end" android:singleLine="true"
+            android:textColor="#C1C1C1"
+            android:text="2019-8-29 20:30" android:textSize="14sp"/>
+
+        <TextView
+            android:id="@+id/likeNum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="200"
+            android:textColor="#C1C1C1"
+            android:layout_alignParentRight="true"
+            android:paddingRight="14dp"
+            android:layout_alignTop="@+id/txtDesc" />
+
+        <ImageView
+            android:id="@+id/imgLike"
+            android:layout_toLeftOf="@+id/likeNum"
+            android:layout_marginRight="5dp"
+            android:layout_centerVertical="true"
+            android:layout_width="23dip"
+            android:layout_height="20dip"
+            android:src="@drawable/src_like" />
+        <ImageView
+            android:id="@+id/imgComment"
+            android:layout_toLeftOf="@+id/imgLike"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="13dp"
+            android:layout_width="23dip"
+            android:layout_height="20dip"
+            android:src="@drawable/timeline_icon_comment" />
+
+    </RelativeLayout>
+
+
+    <!--<com.example.administrator.shiyuji.ui.widget.MDButton-->
+        <!--android:id="@+id/btnLike"-->
+        <!--style="@style/TextSubhead" android:layout_width="wrap_content" android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentBottom="true" android:layout_alignParentRight="true"-->
+        <!--android:layout_marginRight="16dip" android:background="?attr/selectableItemBackgroundBorderless"-->
+        <!--android:gravity="bottom" android:paddingLeft="8dip" android:paddingRight="8dip"-->
+        <!--android:paddingTop="20dip" android:text="赞"-->
+        <!--android:textColor="@color/text_54" android:textSize="12sp"/>-->
+
+</RelativeLayout>

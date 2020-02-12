@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.administrator.shiyuji.ui.widget.KitkatViewGroup
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:insetStatus="?attr/themeColor"
+    app:insetStatusForeground="@color/statusForeground">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/comm_white" android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+            <android.support.design.widget.AppBarLayout
+                android:id="@+id/appbar" android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/top_menu_background"
+                app:elevation="0dp"
+                android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+                <com.example.administrator.shiyuji.ui.widget.AsToolbar
+                    android:id="@+id/toolbar"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/actionBarSize"
+                    android:background="@drawable/top_menu_background"
+                    app:elevation="0dp"
+                    app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+                    app:theme="@style/ThemeOverlay.AppCompat.Light"/>
+
+            </android.support.design.widget.AppBarLayout>
+
+            <android.support.v4.widget.SwipeRefreshLayout
+                android:id="@+id/swipeRefreshLayout"
+                android:layout_width="match_parent" android:layout_height="match_parent"
+                android:layout_below="@id/appbar">
+
+            </android.support.v4.widget.SwipeRefreshLayout>
+
+
+            <com.example.administrator.shiyuji.ui.widget.DimOverlayFrameLayout
+                android:id="@+id/overlay" android:layout_width="match_parent"
+                android:layout_height="match_parent" android:alpha="0"
+                android:visibility="gone"/>
+
+            <com.example.administrator.shiyuji.ui.widget.TimelineDetailScrollView
+                android:id="@+id/laySroll"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scrollbars="none"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/appbar">
+                <!--android:layout_alignParentTop="true"-->
+                <!--android:layout_alignParentStart="true"-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:id="@+id/layHeader"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:minHeight="100dip" />
+
+                    <FrameLayout
+                        android:id="@+id/layBar"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <View
+                            android:id="@+id/layHeaderDivider"
+                            android:layout_width="match_parent"
+                            android:layout_height="2dip"
+                            android:layout_gravity="bottom"
+                            android:background="@color/divider_timeline_item" />
+
+                        <android.support.design.widget.TabLayout
+                            android:id="@+id/tabLayout"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            app:tabIndicatorColor="@color/rosybrown"
+                            app:tabSelectedTextColor="@color/darkgray"
+                            app:tabTextColor="@color/rosybrown" />
+
+                        <com.example.administrator.shiyuji.ui.widget.MDButton
+                            android:id="@+id/txtAttitudes"
+                            style="@style/TextSubhead"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right|center_vertical"
+                            android:layout_marginRight="24dip"
+                            android:gravity="center"
+                            android:minHeight="30dip"
+                            android:paddingLeft="8dip"
+                            android:paddingRight="8dip"
+                            android:textColor="@color/text_54"
+                            android:textSize="@dimen/design_tab_text_size" />
+                    </FrameLayout>
+
+                    <android.support.v4.view.ViewPager
+                        android:id="@+id/viewPager"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+            </com.example.administrator.shiyuji.ui.widget.TimelineDetailScrollView>
+        </RelativeLayout>
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dip"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white78"
+        android:clipChildren="false"
+        android:clipToPadding="false"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/btnRepost"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_toLeftOf="@id/btnCmt"
+            android:layout_weight="1"
+            android:background="@drawable/beautiful_linearlayout_border"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="24dip"
+                android:layout_height="20dip"
+                android:src="@drawable/timeline_icon_redirect" />
+
+            <TextView
+                android:id="@+id/txtRepost"
+                style="@style/TextBody"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp"
+                android:text="转发"
+                android:textColor="@color/text_54"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/btnCmt"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_alignParentRight="true"
+            android:layout_weight="1"
+            android:background="@drawable/beautiful_linearlayout_border"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="24dip"
+                android:layout_height="20dip"
+                android:src="@drawable/timeline_icon_comment" />
+
+            <TextView
+                android:id="@+id/txtComment"
+                style="@style/TextBody"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp"
+                android:text="评论"
+                android:textColor="@color/text_54"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/btnLike"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="0dip"
+            android:layout_weight="1"
+            android:background="@drawable/beautiful_linearlayout_border"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingBottom="2dip">
+
+            <ImageView
+                android:id="@+id/imgLike"
+                android:layout_width="24dip"
+                android:layout_height="20dip"
+                android:src="@drawable/src_like" />
+
+            <TextView
+                android:id="@+id/txtLike"
+                style="@style/TextBody"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp"
+                android:paddingTop="4dip"
+                android:text="赞"
+                android:textColor="@color/text_54"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+</com.example.administrator.shiyuji.ui.widget.KitkatViewGroup>

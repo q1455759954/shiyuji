@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/mine_options_color_selector"
+    android:layout_marginTop="1dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp">
+
+        <com.example.administrator.shiyuji.ui.widget.CircleImageView
+            android:id="@+id/imgPhoto"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="13dip"
+            android:layout_marginRight="10dip"
+            android:src="@drawable/tongzhi" />
+
+        <TextView
+            android:id="@+id/txtName"
+            style="@style/TextNotification"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="9dp"
+            android:text="昵称"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/imgPhoto" />
+
+        <TextView
+            android:id="@+id/txtDesc"
+            style="@style/TextDigest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txtName"
+            android:layout_marginTop="5dip"
+            android:layout_toRightOf="@id/imgPhoto"
+            android:text="内容摘要" />
+
+
+        <TextView
+            android:id="@+id/txtTime"
+            style="@style/TextDigest"
+            android:textSize="@dimen/sp_13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="9dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="8dip"
+            android:text="14:30" />
+
+        <TextView
+            android:id="@+id/txtNum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@id/txtTime"
+            android:layout_marginRight="8dip"
+            android:layout_marginTop="5dip"
+            android:text="●"
+            android:textColor="@color/red"
+            android:textSize="@dimen/sp_17" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>

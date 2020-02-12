@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar" android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/top_menu_background"
+        app:elevation="0dp"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <com.example.administrator.shiyuji.ui.widget.AsToolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/actionBarSize"
+            android:background="@drawable/top_menu_background"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+            app:elevation="0dp"
+            app:theme="@style/ThemeOverlay.AppCompat.Light">
+
+            <TextView
+                android:id="@+id/done"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:paddingRight="12dp"
+                android:text="保存"
+                android:textColor="@color/black"
+                android:textSize="@dimen/sp_16" />
+            </com.example.administrator.shiyuji.ui.widget.AsToolbar>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <RelativeLayout
+        android:id="@+id/avatar"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/mine_options_color_selector"
+        android:clickable="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:text="头像"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <com.example.administrator.shiyuji.ui.widget.CircleImageView
+            android:id="@+id/avatar_"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:src="@drawable/touxiang" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="1dp"
+        android:background="@drawable/mine_options_color_selector"
+        android:clickable="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:text="昵称"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/name_"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:textSize="@dimen/sp_14"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:text="MusicMan" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/gender"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/mine_options_color_selector"
+        android:layout_marginTop="1dp">
+        <TextView
+            android:textSize="16sp"
+            android:layout_marginLeft="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="性别"
+            android:layout_centerVertical="true"
+            android:id="@+id/textView2" />
+        <TextView
+            android:id="@+id/gender_"
+            android:layout_marginLeft="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:text="男"
+            android:textSize="@dimen/sp_14"
+            android:layout_alignTop="@+id/textView2"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="20dp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/birthday"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/mine_options_color_selector"
+        android:clickable="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:text="出生日期"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/birthday_"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:text="1997-8-18"
+            android:textSize="@dimen/sp_14" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/address"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/mine_options_color_selector"
+        android:layout_marginTop="1dp">
+        <TextView
+            android:textSize="16sp"
+            android:layout_marginLeft="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="地区"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="21dp" />
+        <TextView
+            android:id="@+id/address_"
+            android:layout_marginLeft="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:textSize="@dimen/sp_14"
+            android:text="山东省 济宁市"
+            android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/school"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/mine_options_color_selector"
+        android:layout_marginTop="1dp">
+        <TextView
+            android:textSize="16sp"
+            android:layout_marginLeft="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="学校"
+            android:layout_centerVertical="true" />
+        <TextView
+            android:id="@+id/school_"
+            android:layout_marginLeft="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:textSize="@dimen/sp_14"
+            android:text="山东工商学院"
+            android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/introduce"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@drawable/mine_options_color_selector"
+        android:layout_marginTop="10dp">
+        <TextView
+            android:textSize="16sp"
+            android:layout_marginLeft="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="简介"
+            android:layout_centerVertical="true" />
+        <TextView
+            android:id="@+id/introduce_"
+            android:layout_marginLeft="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxWidth="200dp"
+            android:layout_alignParentRight="true"
+            android:textSize="@dimen/sp_14"
+            android:layout_marginRight="20dp"
+            android:maxLines="3"
+            android:ellipsize="end"
+            android:text="山东省 济宁市山东省 济宁市山东省 济宁市山东省 济宁市山东省 济宁市山东省 济宁市"
+            android:layout_centerVertical="true" />
+    </RelativeLayout>
+</LinearLayout>
+<!--<com.example.administrator.fragmenttest.AspectImageView-->
+<!--android:layout_width="wrap_content"-->
+<!--android:layout_height="match_parent"-->
+<!--android:src="@drawable/jiantouzuo"-->
+<!--android:layout_gravity="center_vertical"-->
+<!--android:layout_alignParentLeft="true"-->
+<!--android:layout_centerVertical="true"/>-->

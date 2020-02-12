@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app-settings>
+
+    <setting type="base_url">
+        <des>服务器地址</des>
+        <value>http://192.168.43.77:8080/</value>
+        <!--<value>http://192.168.1.100:8080/</value>-->
+    </setting>
+
+    <setting type="publishUploadPicture">
+        <des>上传一张图片</des>
+        <value>user/publishUploadPicture</value>
+    </setting>
+
+    <setting type="getCollection">
+        <des>得到收藏</des>
+        <value>timeline/getCollection</value>
+    </setting>
+
+    <setting type="getUserInfos">
+        <des>得到关注人或粉丝</des>
+        <value>user/getUserInfos</value>
+    </setting>
+
+    <setting type="getSearchInfo">
+        <des>得到搜索的下一页</des>
+        <value>user/getSearchInfo</value>
+    </setting>
+
+    <setting type="getNextPage">
+        <des>得到搜索的下一页</des>
+        <value>user/getNextPage</value>
+    </setting>
+
+    <setting type="getMyLike">
+        <des>得到我的赞</des>
+        <value>timeline/getMyLike</value>
+    </setting>
+
+    <setting type="getLikeUsers">
+        <des>得到点赞动态的用户</des>
+        <value>timeline/getLikeUsers</value>
+    </setting>
+
+
+    <setting type="getNotification">
+        <des>获取约信息</des>
+        <value>notification/getNotification</value>
+    </setting>
+
+    <setting type="publishLifeInfo">
+        <des>发布生活</des>
+        <value>life/publishLifeInfo</value>
+    </setting>
+    <setting type="publishstatus">
+        <des>发布动态</des>
+        <value>timeline/publishstatus</value>
+    </setting>
+
+    <setting type="publishComments">
+        <des>发布评论</des>
+        <value>timeline/publishComments</value>
+    </setting>
+    <setting type="publishAppointment">
+        <des>发布一条约信息</des>
+        <value>appointment/publishAppointment</value>
+    </setting>
+
+    <setting type="getAppointment">
+        <des>获取约信息</des>
+        <value>appointment/getAppointment</value>
+    </setting>
+
+    <setting type="getLifeInfo">
+        <des>获取约信息</des>
+        <value>life/getLifeInfo</value>
+    </setting>
+
+    <setting type="remindUnread">
+        <des>未读消息</des>
+        <value>user/remindUnread</value>
+    </setting>
+
+    <setting type="getAttendInfo">
+        <des>获取当前登录用户某一好友分组的微博列表</des>
+        <value>timeline/getAttendInfo</value>
+        <extras>
+            <extra type="cache_enable">
+                <value>true</value>
+            </extra>
+            <extra type="cache_utility">
+                <value>com.example.administrator.shiyuji.sdk.cache.TimelineCacheUtility</value>
+            </extra>
+        </extras>
+    </setting>
+
+    <setting type="soldOut">
+        <des>下架</des>
+        <value>user/soldOut</value>
+    </setting>
+
+    <setting type="delete">
+        <des>删除</des>
+        <value>timeline/delete</value>
+    </setting>
+    <setting type="makeCollection">
+        <des>改变收藏状态</des>
+        <value>timeline/makeCollection</value>
+    </setting>
+    <setting type="makeLike">
+        <des>改变点赞状态</des>
+        <value>timeline/makeLike</value>
+    </setting>
+
+    <setting type="makeAttends">
+        <des>改变关注状态</des>
+        <value>user/makeAttends</value>
+    </setting>
+
+    <setting type="timelineResponse">
+        <des>获取回复</des>
+        <value>timeline/getResponse</value>
+        <extras>
+            <extra type="cache_enable">
+                <value>true</value>
+            </extra>
+            <extra type="cache_utility">
+                <value>com.example.administrator.shiyuji.sdk.cache.TimelineCacheUtility</value>
+            </extra>
+        </extras>
+    </setting>
+
+    <setting type="timelineComments">
+        <des>获取评论</des>
+        <value>timeline/getComments</value>
+        <extras>
+            <extra type="cache_enable">
+                <value>true</value>
+            </extra>
+            <extra type="cache_utility">
+                <value>com.example.administrator.shiyuji.sdk.cache.TimelineCacheUtility</value>
+            </extra>
+        </extras>
+    </setting>
+
+    <setting type="friendshipGroupsTimeline">
+        <des>获取当前登录用户某一好友分组的微博列表</des>
+        <value>timeline/getTimeline</value>
+        <extras>
+            <extra type="cache_enable">
+                <value>true</value>
+            </extra>
+            <extra type="cache_utility">
+                <value>com.example.administrator.shiyuji.sdk.cache.TimelineCacheUtility</value>
+            </extra>
+        </extras>
+    </setting>
+
+    <setting type="statusesUpdate">
+        <des>发布一条微博信息。也可以同时转发某条微博。请求必须用POST方式提交,纯文本</des>
+        <value>Upload</value>
+    </setting>
+    <setting type="updateUserInfo">
+        <des>更新用户信息</des>
+        <value>user/updateUserInfo</value>
+    </setting>
+    <setting type="login">
+        <des>登录</des>
+        <value>user/login</value>
+    </setting>
+
+    <setting type="getUserInfo">
+        <des>得到用户信息</des>
+        <value>user/getUserInfo</value>
+    </setting>
+
+    <setting type="report">
+        <des>举报</des>
+        <value>user/report</value>
+    </setting>
+
+    <setting type="getUserLifeInfo">
+        <des>得到用户的生活信息</des>
+        <value>life/getUserLifeInfo</value>
+    </setting>
+
+    <setting type="getUserAppointment">
+        <des>得到用户的约信息</des>
+        <value>appointment/getUserAppointment</value>
+    </setting>
+
+    <setting type="getUserTimeline">
+        <des>得到用户的动态列表</des>
+        <value>timeline/getUserTimeline</value>
+        <extras>
+            <extra type="cache_enable">
+                <value>true</value>
+            </extra>
+            <extra type="cache_utility">
+                <value>com.example.administrator.shiyuji.sdk.cache.TimelineCacheUtility</value>
+            </extra>
+        </extras>
+    </setting>
+
+</app-settings>

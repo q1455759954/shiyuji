@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+    </ScrollView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dip"
+        android:background="#666666" />
+
+    <TextView
+        android:id="@+id/contentErrorHint"
+        android:layout_width="match_parent"
+        android:layout_height="22dip"
+        android:drawableLeft="@drawable/ic_msg_error"
+        android:drawablePadding="4dip"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/comm_h_margin"
+        android:textColor="@color/comm_red"
+        android:textSize="14sp" android:visibility="gone"/>
+
+    <LinearLayout
+        android:id="@+id/layContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/chatactivity_bottom_linearlayout_bg"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/et_input"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:maxHeight="70dp"
+                    android:minHeight="40dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/chatactivity_sendmsg_editview_bg"
+                    android:gravity="center|left"
+                    android:padding="8dp"
+                    android:textSize="14sp" />
+
+                <Button
+                    android:id="@+id/btn_send"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="64dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center|right"
+                    android:layout_margin="5dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="4dp"
+                    android:background="@color/md_deep_purple_500"
+                    android:text="发送" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <!--<LinearLayout-->
+        <!--android:id="@+id/layBtns"-->
+        <!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="45dp"-->
+        <!--android:background="@color/md_deep_purple_500"-->
+        <!--android:gravity="center_vertical"-->
+        <!--android:orientation="horizontal"-->
+        <!--android:paddingLeft="@dimen/comm_v_margin"-->
+        <!--android:paddingRight="@dimen/comm_v_margin">-->
+
+        <!--<LinearLayout-->
+        <!--android:id="@+id/btnLocation"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginRight="@dimen/comm_h_gap"-->
+        <!--android:background="?attr/selectableItemBackground" android:clickable="true"-->
+        <!--android:gravity="center">-->
+
+        <!--<ImageView-->
+        <!--android:id="@+id/imageView2"-->
+        <!--android:layout_width="40dip"-->
+        <!--android:layout_height="40dip"-->
+        <!--android:padding="4dip" />-->
+        <!--</LinearLayout>-->
+
+        <!--&lt;!&ndash;<LinearLayout&ndash;&gt;-->
+        <!--&lt;!&ndash;android:id="@+id/btnCamera" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/comm_h_gap"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:background="?attr/selectableItemBackground" android:clickable="true" android:gravity="center">&ndash;&gt;-->
+
+        <!--&lt;!&ndash;<ImageView&ndash;&gt;-->
+        <!--&lt;!&ndash;android:layout_width="40dip" android:layout_height="40dip" android:padding="8dip" android:src="@drawable/ic_photo_light"/>&ndash;&gt;-->
+        <!--&lt;!&ndash;</LinearLayout>&ndash;&gt;-->
+        <!--&lt;!&ndash; new_camera_gray &ndash;&gt;-->
+
+        <!--<LinearLayout-->
+        <!--android:id="@+id/btnEmotion" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/comm_h_gap"-->
+        <!--android:background="?attr/selectableItemBackground" android:clickable="true" android:gravity="center">-->
+
+        <!--<ImageView-->
+        <!--android:layout_width="40dip" android:layout_height="40dip" android:padding="8dip"-->
+        <!--android:src="@drawable/ic_emoticon_light"/>-->
+        <!--</LinearLayout>-->
+        <!--&lt;!&ndash; new_emotion_gray &ndash;&gt;-->
+
+        <!--<LinearLayout-->
+        <!--android:id="@+id/btnMention" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/comm_h_gap"-->
+        <!--android:background="?attr/selectableItemBackground" android:clickable="true" android:gravity="center">-->
+
+        <!--<ImageView-->
+        <!--android:layout_width="40dip" android:layout_height="40dip" android:alpha="0.95" android:padding="4dip"-->
+        <!--android:src="@drawable/ic_at_v2"/>-->
+        <!--</LinearLayout>-->
+        <!--&lt;!&ndash; new_friend_gray &ndash;&gt;-->
+
+        <!--&lt;!&ndash;<LinearLayout&ndash;&gt;-->
+        <!--&lt;!&ndash;android:id="@+id/btnTrends" android:layout_width="wrap_content" android:layout_height="wrap_content" android:background="?attr/selectableItemBackground"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:clickable="true" android:gravity="center">&ndash;&gt;-->
+
+        <!--&lt;!&ndash;<ImageView&ndash;&gt;-->
+        <!--&lt;!&ndash;android:layout_width="40dip" android:layout_height="40dip" android:alpha="0.95" android:padding="4dip"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:src="@drawable/ic_sharp_v2"/>&ndash;&gt;-->
+        <!--&lt;!&ndash;</LinearLayout>&ndash;&gt;-->
+        <!--&lt;!&ndash; new_attend_gray &ndash;&gt;-->
+
+        <!--<View-->
+        <!--android:layout_width="0dip" android:layout_height="wrap_content" android:layout_weight="1"/>-->
+
+        <!--<LinearLayout-->
+        <!--android:id="@+id/btnOverflow" android:layout_width="50dip" android:layout_height="40dip"-->
+        <!--android:background="?attr/selectableItemBackground" android:clickable="true" android:gravity="center"-->
+        <!--android:visibility="gone">-->
+
+        <!--<ImageView-->
+        <!--android:layout_width="40dip" android:layout_height="40dip" android:padding="4dip" android:src="@drawable/ic_overflow"/>-->
+        <!--</LinearLayout>-->
+
+        <!--&lt;!&ndash;<LinearLayout&ndash;&gt;-->
+        <!--&lt;!&ndash;android:id="@+id/btnSend" android:layout_width="wrap_content" android:layout_height="wrap_content" android:background="?attr/selectableItemBackground"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:clickable="true" android:gravity="center">&ndash;&gt;-->
+
+        <!--&lt;!&ndash;<ImageView&ndash;&gt;-->
+        <!--&lt;!&ndash;android:layout_width="40dip" android:layout_height="40dip" android:padding="8dip" &ndash;&gt;-->
+        <!--&lt;!&ndash;android:src="@drawable/ic_send_light"/>&ndash;&gt;-->
+        <!--&lt;!&ndash;</LinearLayout>&ndash;&gt;-->
+
+
+        <!--</LinearLayout>-->
+
+
+    </LinearLayout>
+
+
+    <!--<RelativeLayout-->
+        <!--android:id="@+id/layEmotion" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="@color/bg_emotion" android:visibility="gone">-->
+    <!--</RelativeLayout>-->
+
+</LinearLayout>

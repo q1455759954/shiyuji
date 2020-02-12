@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<item android:state_enabled="true"-->
+        <!--android:drawable="@android:color/holo_blue_light" /> &lt;!&ndash; 点击时 &ndash;&gt;-->
+    <!--<item android:state_enabled="false"-->
+        <!--android:drawable="@color/colorWhite" /> &lt;!&ndash; 点击后 &ndash;&gt;-->
+    <item android:drawable="@color/colorWhite"
+        android:state_checked="false" />
+    <item android:drawable="@drawable/bt_bg_checked"
+        android:state_checked="true" />
+</selector>

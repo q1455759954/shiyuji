@@ -1,0 +1,119 @@
+<resources>
+
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="transparentText" parent="TextAppearance.AppCompat.Small">
+        <item name="android:textColor">#00000000</item>
+    </style>
+
+    <!--编辑框下划线颜色-->
+    <style name="MyEditText" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">#DBDBDB</item>
+        <item name="colorControlActivated">#DBDBDB</item>
+    </style>
+
+    <!--个人首页-->
+    <style name="ToolBarTitleText" parent="TextAppearance.AppCompat.Medium">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingTop">-10dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+
+    <!--评论内容-->
+    <style name="userInfoTop">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:paddingBottom">30dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <!--评论内容-->
+    <style name="CommentsBody">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <!--评论昵称-->
+    <style name="CommentsName">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <!--通知里的昵称-->
+    <style name="TextNotification">
+        <item name="android:textColor">@color/comm_black</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!--通知里面消息摘要-->
+    <style name="TextDigest">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <!--动态昵称-->
+    <style name="TextTitle">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <!--来自XXX客户端-->
+    <style name="TextSubhead">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <!--微博内容-->
+    <style name="TextBody">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!--图片-->
+    <style name="timelinePicture">
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <!--发布新微博-->
+    <style name="hintText">
+        <item name="android:textColor">@drawable/hint</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <!--首页顶部tablayout字体大小-->
+    <style name="tablayouTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">true</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">19sp</item>
+    </style>
+
+    <!--首页顶部tablayout字体大小-->
+    <style name="tablayouTextAppearance2" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">true</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="customdialogstyle">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/white</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+</resources>

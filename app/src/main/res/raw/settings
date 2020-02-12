@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app-settings>
+
+
+    <setting-array type="draft" index="0">
+        <des>草稿图片，相对root_path路径</des>
+        <setting>
+            <value>draft</value>
+        </setting>
+    </setting-array>
+
+</app-settings>

@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\message_adapter_item_content.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\message_adapter_item_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b32fb58922b408bb5b73402fd22b7f8ea1076b15\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\group_apply_manager_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\group_apply_manager_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\group_fragment_members.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\group_fragment_members.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\group_member_apply_adpater.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\group_member_apply_adpater.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\group_info_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\group_info_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\group_member_pop_menu.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\group_member_pop_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\group_member_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\group_member_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\chat_input_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\chat_input_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\line_controller_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\line_controller_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\conversation_adapter.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\conversation_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\07eb19e7b7b417746031f9bf3d5a8fb7e7ad179e\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b6c7880a74ba99e48c887e2d09b3039b62f46ac2\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\item_face.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\item_face.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\contact_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\contact_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\07eb19e7b7b417746031f9bf3d5a8fb7e7ad179e\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\07eb19e7b7b417746031f9bf3d5a8fb7e7ad179e\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\chat_input_layout_actoin.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\chat_input_layout_actoin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\07eb19e7b7b417746031f9bf3d5a8fb7e7ad179e\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\group_member_adpater.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\group_member_adpater.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\message_adapter_content_image.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\message_adapter_content_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\view_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\group_apply_manager_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\group_apply_manager_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\group_fragment_invite_members.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\group_fragment_invite_members.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\07eb19e7b7b417746031f9bf3d5a8fb7e7ad179e\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\message_adapter_content_text.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\message_adapter_content_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\group_fragment_del_members.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\group_fragment_del_members.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_camera.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\contact_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\contact_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\group_info_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\group_info_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_face_grid.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_face_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pop_menu_adapter.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\pop_menu_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b6c7880a74ba99e48c887e2d09b3039b62f46ac2\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\07eb19e7b7b417746031f9bf3d5a8fb7e7ad179e\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b32fb58922b408bb5b73402fd22b7f8ea1076b15\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\message_adapter_item_empty.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\message_adapter_item_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\fragment_face.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\fragment_face.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\group_apply_member_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\group_apply_member_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\07eb19e7b7b417746031f9bf3d5a8fb7e7ad179e\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\group_member_del_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\group_member_del_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_video_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_video_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\title_bar_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\title_bar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\chat_notice_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\chat_notice_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\selection_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\selection_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_tooltip.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_photo_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_photo_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_ensure_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_ensure_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\conversation_custom_adapter.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\conversation_custom_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\conversation_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\conversation_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\message_adapter_content_tips.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\message_adapter_content_tips.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\message_adapter_content_file.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\message_adapter_content_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\group_info_fragment.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\group_info_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\07eb19e7b7b417746031f9bf3d5a8fb7e7ad179e\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\contact_selecable_adapter_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\contact_selecable_adapter_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\profile_icon_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\profile_icon_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\message_adapter_content_audio.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\message_adapter_content_audio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\07eb19e7b7b417746031f9bf3d5a8fb7e7ad179e\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\group_member_invite_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\group_member_invite_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\chat_input_camera_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\chat_input_camera_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\face_group_icon.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\face_group_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pop_dialog_adapter.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\pop_dialog_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pop_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\pop_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\group_member_del_adpater.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\group_member_del_adpater.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\contact_friend_profile_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\contact_friend_profile_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\chat_inputmore_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\chat_inputmore_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\message_adapter_content_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\message_adapter_content_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\chat_inputmore_fragment.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\chat_inputmore_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\chat_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\layout\\chat_layout.xml"
+    }
+]

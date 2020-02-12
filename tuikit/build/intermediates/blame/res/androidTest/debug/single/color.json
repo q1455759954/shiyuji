@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\bg_positive_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\color\\bg_positive_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\783f2d834eff3639765a0430718b495e0cbf0f29\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\negative_text.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\color\\negative_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\positive_text.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\color\\positive_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\bg_negative_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\bundles\\debug\\res\\color\\bg_negative_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\color\\switch_thumb_material_light.xml"
+    }
+]

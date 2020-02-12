@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/re_chat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:background="@drawable/mine_options_color_selector">
+
+        <com.example.administrator.shiyuji.ui.widget.CircleImageView
+            android:id="@+id/chat"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="13dip"
+            android:layout_marginRight="10dip"
+            android:src="@drawable/chat" />
+
+        <TextView
+            android:id="@+id/chat_text"
+            style="@style/TextNotification"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/chat"
+            android:text="会话列表" />
+
+        <ImageView
+            android:id="@+id/chat_"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="0dp"
+            android:layout_marginTop="7dp"
+            android:src="@drawable/arrows" />
+        <TextView
+            android:id="@+id/chat_t"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/chat_"
+            android:paddingRight="8dp" />
+
+    </RelativeLayout>
+
+    <!--<RelativeLayout-->
+        <!--android:id="@+id/re_aitewode"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="@drawable/mine_options_color_selector"-->
+        <!--android:paddingBottom="5dp"-->
+        <!--android:paddingTop="5dp">-->
+
+        <!--<com.example.administrator.shiyuji.ui.widget.CircleImageView-->
+            <!--android:id="@+id/aitewode"-->
+            <!--android:layout_width="60dp"-->
+            <!--android:layout_height="60dp"-->
+            <!--android:layout_marginLeft="13dip"-->
+            <!--android:layout_marginRight="10dip"-->
+            <!--android:src="@drawable/aite" />-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/wode"-->
+            <!--style="@style/TextNotification"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_centerVertical="true"-->
+            <!--android:layout_toRightOf="@id/aitewode"-->
+            <!--android:text="\@我的" />-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/wode_"-->
+            <!--android:layout_width="30dp"-->
+            <!--android:layout_height="30dp"-->
+            <!--android:layout_alignParentRight="true"-->
+            <!--android:layout_centerVertical="true"-->
+            <!--android:layout_marginRight="0dp"-->
+            <!--android:layout_marginTop="7dp"-->
+            <!--android:src="@drawable/arrows" />-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/wode_t"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_centerVertical="true"-->
+            <!--android:layout_toLeftOf="@id/wode_"-->
+            <!--android:paddingRight="8dp" />-->
+
+    <!--</RelativeLayout>-->
+
+    <RelativeLayout
+        android:id="@+id/re_comment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@drawable/mine_options_color_selector"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp">
+
+        <com.example.administrator.shiyuji.ui.widget.CircleImageView
+            android:id="@+id/pinglun"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="13dip"
+            android:layout_marginRight="10dip"
+            android:src="@drawable/xiaoxi" />
+
+        <TextView
+            android:id="@+id/pinglun_text"
+            style="@style/TextNotification"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@+id/pinglun"
+            android:text="评论"
+            />
+
+        <ImageView
+            android:id="@+id/pinglun_"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="0dp"
+            android:layout_marginTop="7dp"
+            android:src="@drawable/arrows" />
+
+        <TextView
+            android:id="@+id/comment_t"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toStartOf="@+id/pinglun_"
+            android:paddingRight="8dp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/re_like"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@drawable/mine_options_color_selector"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp">
+
+        <com.example.administrator.shiyuji.ui.widget.CircleImageView
+            android:id="@+id/zan"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="13dip"
+            android:layout_marginRight="10dip"
+            android:src="@drawable/dianzan" />
+
+        <TextView
+            android:id="@+id/zan_text"
+            style="@style/TextNotification"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/zan"
+            android:text="赞" />
+
+        <ImageView
+            android:id="@+id/like_"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="0dp"
+            android:layout_marginTop="7dp"
+            android:src="@drawable/arrows" />
+
+        <TextView
+            android:id="@+id/like_t"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/like_"
+            android:paddingRight="8dp" />
+
+    </RelativeLayout>
+
+</LinearLayout>

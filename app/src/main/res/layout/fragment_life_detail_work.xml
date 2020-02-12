@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/ic_back"
+                android:layout_width="30dp"
+                android:layout_height="30sp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="15dp"
+                android:src="@drawable/ic_back" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="兼职详情"
+                android:textColor="@color/tvColor"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/release_add"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text="咨询"
+                android:textColor="@color/colorLaunch"
+                android:textSize="16sp" />
+
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/colorGray">
+        </View>
+
+        <TextView
+            android:id="@+id/event_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F7F7F7"
+            android:textColor="#444444"
+            android:text="活动标题寄给你的开始看过没多少看过"
+            android:textSize="28sp"
+            android:padding="15dp"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp">
+
+            <com.example.administrator.shiyuji.ui.widget.CircleImageView
+                android:layout_marginLeft="12dp"
+                android:id="@+id/iv_onlinehead"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:scaleType="centerCrop"
+                android:layout_centerVertical="true"
+                android:src="@drawable/user_head"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="8dp"
+                android:layout_centerInParent="true"
+                android:layout_toRightOf="@+id/iv_onlinehead">
+
+                <TextView
+                    android:id="@+id/tv_originator"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Mr.Young。"
+                    android:textColor="@color/colorLaunch"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/tv_releasetime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="发布时间"
+                    android:textSize="10sp"
+                    />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/attend"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/textsharp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:text="+ 关注"
+                android:textSize="10dp"
+                android:layout_marginRight="15sp"
+                android:gravity="center"
+                />
+
+        </RelativeLayout>
+
+
+        <!--<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="10sp"
+            android:id="@+id/activity_name"
+            android:layout_marginLeft="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/tvColor"
+                android:textSize="20sp"
+                android:text="活动标题:"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="活动名称"
+                android:textSize="20sp"/>
+
+        </LinearLayout>-->
+
+        <TextView
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:background="@drawable/editsharp"
+            android:hint="具体活动"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/turn"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="80dp"
+        android:text="下架"
+        android:layout_alignParentBottom="true"
+        android:textSize="@dimen/sp_20"
+        android:visibility="gone"
+        android:background="@color/red"/>
+
+</RelativeLayout>

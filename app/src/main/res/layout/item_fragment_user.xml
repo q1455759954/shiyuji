@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_marginTop="1dp"
+    android:layout_height="match_parent">
+    <LinearLayout
+       android:id="@+id/personal_info"
+       android:layout_margin="15dp"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textStyle="bold"
+           android:textColor="@color/black"
+           android:text="个人信息"/>
+       <TextView
+           android:id="@+id/name"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textColor="@color/text_56"
+           android:layout_marginTop="5dp"
+           android:text="昵称 ：7"/>
+       <TextView
+           android:id="@+id/age"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textColor="@color/text_56"
+           android:layout_marginTop="5dp"
+           android:text="年龄 ：95后"/>
+       <TextView
+           android:id="@+id/gender"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textColor="@color/text_56"
+           android:layout_marginTop="5dp"
+           android:text="性别 ：男"/>
+       <TextView
+           android:id="@+id/address"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textColor="@color/text_56"
+           android:layout_marginTop="5dp"
+           android:text="地区 ：山东省 济宁市"/>
+       <TextView
+           android:id="@+id/school"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textColor="@color/text_56"
+           android:layout_marginTop="5dp"
+           android:text="大学 ：山东财富大学"/>
+   </LinearLayout>
+    <LinearLayout
+        android:id="@+id/personal_introduce"
+        android:layout_margin="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:text="个人介绍"/>
+        <TextView
+            android:id="@+id/introduce"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_56"
+            android:layout_marginTop="5dp"
+            android:text="樱花纷飞时，我独自一人，带着难以按耐的心情，始终矗立着，当嫩叶的颜色绽放，思绪开始翻腾，迷失了一切，流向你身边，只有环绕在身边的树群，凝视着我俩。"/>
+    </LinearLayout>
+
+</LinearLayout>

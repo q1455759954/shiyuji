@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\switch_thumb_gray.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\switch_thumb_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\blue_btn_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\blue_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\action_audio_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\action_audio_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\switch_thumb_blue.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\switch_thumb_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b32fb58922b408bb5b73402fd22b7f8ea1076b15\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\switch_track.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\bottom_action_border.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\bottom_action_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\editor_border_gray.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\editor_border_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\play_voice_message.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\play_voice_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\chat_time_border.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\chat_time_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b32fb58922b408bb5b73402fd22b7f8ea1076b15\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\selector_face_text.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\selector_face_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\voice_btn_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\voice_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\action_face_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\action_face_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b32fb58922b408bb5b73402fd22b7f8ea1076b15\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\my_cursor.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\my_cursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\action_textinput_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\action_textinput_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\view_original_image_border.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\view_original_image_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\shape_side_bar_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\shape_side_bar_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\text_border.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\text_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\recording_volume.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\recording_volume.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\ic_back.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\message_send_border.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\message_send_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\switch_thumb.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\gray_btn_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\gray_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\switch_track_gray.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\switch_track_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\msg_editor_border.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\msg_editor_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\checkbox_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\ic_photo.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\ic_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\action_more_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\action_more_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\popu_dialog_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\popu_dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b32fb58922b408bb5b73402fd22b7f8ea1076b15\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\switch_track_blue.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\switch_track_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9c7dfa41b58c678db43f80c10dd2a4a0a2455a7d\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\build\\intermediates\\res\\merged\\release\\drawable\\ic_camera.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\end\\ShiYuJi\\ShiYuJi\\tuikit\\src\\main\\res\\drawable\\ic_camera.xml"
+    }
+]

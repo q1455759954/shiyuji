@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white78"
+    android:paddingBottom="30dp">
+
+    <TextView
+        android:id="@+id/txtVisiable"
+        style="@style/TextSubhead"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:layout_marginLeft="16dip"
+        android:layout_marginTop="8dip"
+        android:visibility="gone"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dip"
+        android:paddingLeft="16dip">
+
+        <com.example.administrator.shiyuji.ui.widget.CircleImageView
+            android:id="@+id/imgPhoto"
+            android:layout_width="42dip"
+            android:layout_height="42dip"
+            android:layout_marginRight="8dip"
+            android:src="@drawable/a_icon_b" />
+
+        <RelativeLayout
+            android:id="@+id/response_top"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/imgPhoto">
+
+            <TextView
+                android:id="@+id/txtName"
+                style="@style/TextTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="名字" />
+
+            <ImageView
+                android:id="@+id/imgVerified"
+                android:layout_width="18dip"
+                android:layout_height="18dip"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="4dip"
+                android:layout_marginRight="@dimen/comm_h_gap"
+                android:layout_toRightOf="@id/txtName"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/imgComment"
+                android:layout_width="23dip"
+                android:layout_height="20dip"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:paddingRight="9dp"
+                android:src="@drawable/timeline_icon_comment" />
+
+            <TextView
+                android:id="@+id/likeNum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@+id/imgComment"
+                android:paddingRight="13dp"
+                android:text="200"
+                android:textColor="#C1C1C1"
+                android:textSize="@dimen/sp_14" />
+
+            <ImageView
+                android:id="@+id/imgLike"
+                android:layout_width="23dip"
+                android:layout_height="20dip"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dp"
+                android:layout_toLeftOf="@+id/likeNum"
+                android:src="@drawable/src_like" />
+
+
+        </RelativeLayout>
+
+
+        <TextView
+            android:id="@+id/txtDesc"
+            style="@style/TextSubhead"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/response_top"
+            android:layout_marginTop="2dip"
+            android:layout_toRightOf="@id/imgPhoto"
+            android:paddingTop="3dp"
+            android:text="2019-8-29 20:30"
+            android:textColor="@color/edit_hint" />
+
+        <com.example.administrator.shiyuji.ui.widget.MyTextView
+            android:id="@+id/txtContent"
+            style="@style/TextBody"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txtDesc"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="51dip"
+            android:layout_marginTop="10dip"
+            android:layout_marginBottom="8dip"
+            android:gravity="center_vertical"
+            android:text="哈哈，我今天发了条微博" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txtContent"
+            android:layout_marginLeft="51dp"
+            android:layout_marginTop="8dp"
+            android:text="查看原动态"
+            android:textColor="@color/turnBlue"
+            android:textSize="@dimen/sp_14" />
+
+    </RelativeLayout>
+
+</LinearLayout>
